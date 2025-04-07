@@ -930,6 +930,9 @@ textarea.input {
   color: black;
   border: 2px solid rebeccapurple;
 }
-
+.login {
+	text-decoration: none;
+	color: #fff;
+}
 
 
